@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "404.Sum of Left Leaves", "4
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "349.Intersection of Two Arrays", "349.Intersection of Two Arrays\349.Intersection of Two Arrays.vcxproj", "{FD9A9325-2969-4D25-B151-87549993671E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "387.First Unique Character in a String", "387.First Unique Character in a String\387.First Unique Character in a String.vcxproj", "{B6B085AD-0218-4594-AA79-39428FCAEEAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{FD9A9325-2969-4D25-B151-87549993671E}.Release|x64.Build.0 = Release|x64
 		{FD9A9325-2969-4D25-B151-87549993671E}.Release|x86.ActiveCfg = Release|Win32
 		{FD9A9325-2969-4D25-B151-87549993671E}.Release|x86.Build.0 = Release|Win32
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Debug|x64.ActiveCfg = Debug|x64
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Debug|x64.Build.0 = Debug|x64
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Debug|x86.Build.0 = Debug|Win32
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Release|x64.ActiveCfg = Release|x64
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Release|x64.Build.0 = Release|x64
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Release|x86.ActiveCfg = Release|Win32
+		{B6B085AD-0218-4594-AA79-39428FCAEEAE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
