@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "350.Intersection of Two Arr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "415.Add Strings", "415.Add Strings\415.Add Strings.vcxproj", "{9F329A3F-9A22-4E4E-9279-1DCCF0386A1D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "405.Convert a Number to Hexadecimal", "405.Convert a Number to Hexadecimal\405.Convert a Number to Hexadecimal.vcxproj", "{6DBBA82C-7B68-4E3A-9839-71EB918EF882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{9F329A3F-9A22-4E4E-9279-1DCCF0386A1D}.Release|x64.Build.0 = Release|x64
 		{9F329A3F-9A22-4E4E-9279-1DCCF0386A1D}.Release|x86.ActiveCfg = Release|Win32
 		{9F329A3F-9A22-4E4E-9279-1DCCF0386A1D}.Release|x86.Build.0 = Release|Win32
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Debug|x64.ActiveCfg = Debug|x64
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Debug|x64.Build.0 = Debug|x64
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Debug|x86.Build.0 = Debug|Win32
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Release|x64.ActiveCfg = Release|x64
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Release|x64.Build.0 = Release|x64
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Release|x86.ActiveCfg = Release|Win32
+		{6DBBA82C-7B68-4E3A-9839-71EB918EF882}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
