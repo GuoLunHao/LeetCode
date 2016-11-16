@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "102.Binary Tree Level Order
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "107.Binary Tree Level Order Traversal II", "107.Binary Tree Level Order Traversal II\107.Binary Tree Level Order Traversal II.vcxproj", "{D21E8DDA-FF92-4976-AAAA-F7F7BC8C1768}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "121.Best Time to Buy and Sell Stock", "121.Best Time to Buy and Sell Stock\121.Best Time to Buy and Sell Stock.vcxproj", "{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{D21E8DDA-FF92-4976-AAAA-F7F7BC8C1768}.Release|x64.Build.0 = Release|x64
 		{D21E8DDA-FF92-4976-AAAA-F7F7BC8C1768}.Release|x86.ActiveCfg = Release|Win32
 		{D21E8DDA-FF92-4976-AAAA-F7F7BC8C1768}.Release|x86.Build.0 = Release|Win32
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Debug|x64.ActiveCfg = Debug|x64
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Debug|x64.Build.0 = Debug|x64
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Debug|x86.Build.0 = Debug|Win32
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Release|x64.ActiveCfg = Release|x64
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Release|x64.Build.0 = Release|x64
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Release|x86.ActiveCfg = Release|Win32
+		{AD5A9FD7-7636-4BD2-B24E-0F4B14E59278}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
