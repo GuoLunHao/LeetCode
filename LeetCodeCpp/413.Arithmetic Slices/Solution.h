@@ -13,7 +13,7 @@ public:
                     length++;
                 }
                 if (A[i] - A[i-1] != difference || (i == A.size() - 1)) {
-                    arithmeticSlicesNumber += calculateArithmetic(length);
+                    arithmeticSlicesNumber += (length-1)*(length-2)/2;
                     length = 2;
                     difference = A[i] - A[i-1];
                 }
@@ -22,12 +22,4 @@ public:
 
         return arithmeticSlicesNumber;
     }
-private:
-    int calculateArithmetic(int length) {
-        int result = 0;
-        for (size_t i = 3; i <= length; i++) {
-            result += length - i + 1;
-        }
-        return result;
-    } 
 };
